@@ -1,0 +1,7 @@
+body {
+  background-image: url("src/img/OneShotRefuge.png");
+  background-repeat: no-repeat;
+}
+a:link {
+  background-color: purple;
+}
